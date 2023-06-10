@@ -3,7 +3,7 @@
 
 ## Code:
 
-```
+```javascript
 // My Javascript Solution
 
 // A helper function that evaluates a series network
