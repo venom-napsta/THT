@@ -15,10 +15,9 @@
 
     #### Hence something like this:
 
-    ```Python
-    
+    ```python    
     from collections import defaultdict
-
+    
     class anagramSolution:
         # Here the function receives the Array of strings
         def groupAnagrams(self, stringsArr):
