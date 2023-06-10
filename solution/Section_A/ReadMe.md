@@ -16,6 +16,7 @@
     #### Hence something like this:
 
     ```Python
+    
     from collections import defaultdict
 
     class anagramSolution:
@@ -30,4 +31,5 @@
     # Anagramgs object Instantiation
     anag = anagramSolution()
     print(anag.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
+   
     ```
