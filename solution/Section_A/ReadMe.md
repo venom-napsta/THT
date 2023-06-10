@@ -15,7 +15,7 @@
 
     #### Hence something like this:
 
-    ```python    
+```python
     from collections import defaultdict
     
     class anagramSolution:
@@ -31,4 +31,4 @@
     anag = anagramSolution()
     print(anag.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
    
-    ```
+```
