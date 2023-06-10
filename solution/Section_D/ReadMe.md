@@ -8,4 +8,4 @@ Working remotely, how do you deal with power and connectivity outages? Do you ha
 
 #### Answers:
 
-[Anesu Video]([https://loom.com/](https://www.loom.com/share/decd75357c1b4a2cb01638f93923ee03))
+([https://loom.com/](https://www.loom.com/share/decd75357c1b4a2cb01638f93923ee03))
