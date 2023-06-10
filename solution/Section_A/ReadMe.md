@@ -15,7 +15,8 @@
 
     #### Hence something like this:
 
-    ```from collections import defaultdict
+    ```Python
+    from collections import defaultdict
 
     class anagramSolution:
         # Here the function receives the Array of strings
