@@ -29,4 +29,5 @@
             return list(result.values())
     # Anagramgs object Instantiation
     anag = anagramSolution()
-    print(anag.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))```
+    print(anag.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
+    ```
